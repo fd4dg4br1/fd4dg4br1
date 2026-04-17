@@ -1,5 +1,5 @@
 # fd4dg4br1
-# Olá, eu sou o [Seu Nome] 👋
+# Olá, eu sou o Gabriel 👋
 
 Estudante de Engenharia de Computação e aspirante a Desenvolvedor Backend focado em sistemas robustos e escaláveis.
 
