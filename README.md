@@ -15,8 +15,9 @@ Estudante de Engenharia de Computação e aspirante a Desenvolvedor Backend foca
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 📫 Como me encontrar:
-- [LinkedIn]([link-do-seu-perfil](https://www.linkedin.com/in/gabriel-alves-rodrigues-7215132a3/))
-- [E-mail](gabrielalvesrodrigues006@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-alves-rodrigues-7215132a3/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielalvesrodrigues006@gmail.com)
 
 ---
 *“Simplicidade é o último grau de sofisticação.”*
